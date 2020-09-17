@@ -1,0 +1,1 @@
+this thing prints a small dialog from star wars, nothing exceptional
