@@ -1,0 +1,1 @@
+code shows fasm's capabilities at getting input by reading and then writing user's number
